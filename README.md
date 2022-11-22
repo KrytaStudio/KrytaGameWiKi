@@ -1,1 +1,1 @@
-# KrytaGameWiKi
+# Kryta游戏百科
