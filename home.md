@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2022-12-02T07:52:45.113Z
+date: 2022-12-02T07:53:15.958Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T05:53:21.812Z
@@ -37,7 +37,7 @@ dateCreated: 2022-12-02T05:53:21.812Z
 
 如果以上均未能解决你的问题，请参考详细的FAQs或者是故障排查页面，或者请在QQ群（群号：316180767）内询问管理员。
 
-### Tab {.tabset}
+### 测试 {.tabset}
 
 #### Usage
 
