@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2022-12-02T07:59:33.631Z
+date: 2022-12-02T08:01:26.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T05:53:21.812Z
@@ -18,7 +18,7 @@ dateCreated: 2022-12-02T05:53:21.812Z
 **Kryta是一个十年老玩家开的养老服，目前是8核32G，60M带宽，可视距离32，模拟距离32。不出意外可以一直开到世界末日。**
 
 ## 加入游玩
-服务器的地址是`game.kryta.xyz`，基岩版和Java版都是默认端口。
+> 服务器的地址是`game.kryta.xyz`，基岩版和Java版都是默认端口。
 
 ### 注册账户
 为了一个纯粹的游玩环境，服务器已经开启正版验证。需要您在您的账户中拥有Minecraft Java版本。
@@ -31,11 +31,9 @@ dateCreated: 2022-12-02T05:53:21.812Z
 ![wechat.png](/wechat.png)
 
 ### 我为何无法连接
-如果您无法连接到服务器，可能有以下原因：
-- 这大概是DNS污染，您可以切换到阿里DNS，请参考教程：https://alidns.com/
-- 当然也可能是服务器离线了，请参考Kryta服务状态页面：https://stats.uptimerobot.com/Qg5ykCXZQp
 
-如果以上均未能解决你的问题，请参考详细的FAQs或者是故障排查页面，或者请在QQ群（群号：316180767）内询问管理员。
+> 如果以下均未能解决你的问题，请参考详细的FAQs或者是故障排查页面，或者请在QQ群（群号：316180767）内询问管理员。
+{.is-info}
 
 ##### 我为何无法连接{.tabset}
 
