@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2022-12-02T07:53:15.958Z
+date: 2022-12-02T07:55:45.846Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T05:53:21.812Z
@@ -37,20 +37,11 @@ dateCreated: 2022-12-02T05:53:21.812Z
 
 如果以上均未能解决你的问题，请参考详细的FAQs或者是故障排查页面，或者请在QQ群（群号：316180767）内询问管理员。
 
-### 测试 {.tabset}
+##### 我为何无法连接{.tabset}
 
-#### Usage
+###### DNS污染
 
-Using **double asterisks** symbols before and after the text selection.
+您可以切换到阿里DNS，请参考教程：https://alidns.com/
 
-#### Shortcuts
-- By selecting text, then clicking the ![Bold](/assets/ui/ui-markdown-bold.png =x30){.radius-4} button in the toolbar.
-- By selecting text, then pressing <kbd>CTRL</kbd> + <kbd>B</kbd>
-
-#### Examples
-
-```js
-Lorem **ipsum** dolor
-```
-
-Lorem **ipsum** dolor
+###### Kryta服务器离线
+服务器离线也会导致无法连接，你可以访问Kryta服务状态页面来确认服务器是否正常
