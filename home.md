@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2022-12-02T07:55:45.846Z
+date: 2022-12-02T07:59:33.631Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T05:53:21.812Z
@@ -40,8 +40,12 @@ dateCreated: 2022-12-02T05:53:21.812Z
 ##### 我为何无法连接{.tabset}
 
 ###### DNS污染
-
-您可以切换到阿里DNS，请参考教程：https://alidns.com/
+您可以切换到一些公共DNS来避免出现问题，例如阿里DNS。
+切换的方法请参考：
+- [AliDNS](https://alidns.com/)
+{.links-list}
 
 ###### Kryta服务器离线
 服务器离线也会导致无法连接，你可以访问Kryta服务状态页面来确认服务器是否正常
+- [Kryta服务状态*获取Kryta服务是否正常的信息*](https://stats.uptimerobot.com/Qg5ykCXZQp)
+{.links-list}
