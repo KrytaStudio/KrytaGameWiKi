@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2023-02-01T09:49:53.958Z
+date: 2023-02-01T09:52:03.481Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-02T05:53:21.812Z
@@ -18,7 +18,11 @@ dateCreated: 2022-12-02T05:53:21.812Z
 **Kryta是一个十年老玩家开的养老服，目前是8核32G，60M带宽，可视距离32，模拟距离32。不出意外可以一直开到世界末日。**
 
 ## 加入游玩
-> 服务器的地址是`game.kryta.xyz`，目前版本`1.19.3`基岩版和Java版都是默认端口。
+
+> * 服务器的地址：`game.kryta.xyz`
+> * 目前版本：`1.19.3`
+> * 端口：默认端口（JAVA：25565，基岩版：19132）
+{.is-info}
 
 ### 注册账户
 为了一个纯粹的游玩环境，服务器已经开启正版验证。需要您在您的账户中拥有Minecraft Java版本。
