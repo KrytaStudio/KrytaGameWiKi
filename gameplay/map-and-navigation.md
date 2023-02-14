@@ -2,7 +2,7 @@
 title: 地图&导航
 description: 这里你可以找到与地图和导航相关的帮助信息
 published: true
-date: 2023-02-14T16:05:28.533Z
+date: 2023-02-14T17:02:21.815Z
 tags: 游戏玩法, 地图
 editor: markdown
 dateCreated: 2023-02-13T07:30:54.641Z
@@ -16,7 +16,7 @@ dateCreated: 2023-02-13T07:30:54.641Z
 - [渡云城*Kryta世界的核心城市。通往其它世界的传送门位于此*](/zh/location/du-yun-cheng)
 - [黑曜石锻造厂*潘达利亚生产力中心*](/zh/location/heiyaoshiduanzaochang)
 {.links-list}
-# 标记
+# 地图标记
 当下，普通玩家仅支持通过告示牌来创建一个标记。
 
 > 破坏该告示牌将会删除这个标记
