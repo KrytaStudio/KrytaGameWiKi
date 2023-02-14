@@ -2,7 +2,7 @@
 title: 渡云城
 description: 渡云城是服务器最为核心的城市
 published: true
-date: 2023-02-14T16:17:32.752Z
+date: 2023-02-14T16:29:02.751Z
 tags: 城市, 玩法, 说明
 editor: markdown
 dateCreated: 2023-02-14T09:14:38.174Z
@@ -15,9 +15,16 @@ dateCreated: 2023-02-14T09:14:38.174Z
 > 请遵守当地政策，否则可能会被关入监狱或禁止进入Kryta世界。
 {.is-warning}
 
-# 位置:lock:
+- 【请填入自定义内容】
+- 【请填入自定义内容】
+- 【请填入自定义内容】
+- 【请填入自定义内容】
+{.grid-list}
+
+# 位置
 - [渡云城的位置*点击前往实时地图*](https://map.kryta.xyz/#Pandaria;flat;-753,64,2859;6)
 {.links-list}
+【位置简介】
 
 # 设施
 ## 设施 {.tabset}
