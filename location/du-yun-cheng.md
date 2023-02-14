@@ -2,7 +2,7 @@
 title: 渡云城
 description: 渡云城是服务器最为核心的城市
 published: true
-date: 2023-02-14T16:30:42.405Z
+date: 2023-02-14T16:36:13.422Z
 tags: 城市, 玩法, 说明
 editor: markdown
 dateCreated: 2023-02-14T09:14:38.174Z
@@ -41,5 +41,5 @@ dateCreated: 2023-02-14T09:14:38.174Z
 
 # 居民
 
-- [Mattholy*Kryta世界管理员，服务器设施维护者，秩序守护*](#)
+- [Mattholy*Kryta世界管理员，服务器设施维护者，秩序守护*](/zh/player/mattholy)
 {.links-list}
