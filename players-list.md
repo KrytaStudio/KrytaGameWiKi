@@ -2,7 +2,7 @@
 title: 玩家列表
 description: 这里可以找到玩家列表
 published: true
-date: 2023-02-14T17:00:07.705Z
+date: 2023-02-14T17:00:41.036Z
 tags: 玩家信息
 editor: markdown
 dateCreated: 2023-02-14T16:53:50.921Z
@@ -13,9 +13,9 @@ dateCreated: 2023-02-14T16:53:50.921Z
 {.links-list}
 
 # 活跃玩家
-- [Mattholy*Kryta世界管理员，服务器设施维护者，秩序守护*](/zh/player/mattholy)
+- [**](/zh/player/)
 {.links-list}
 
 # 全部玩家
-- [Mattholy*Kryta世界管理员，服务器设施维护者，秩序守护*](/zh/player/mattholy)
+- [**](/zh/player/)
 {.links-list}
