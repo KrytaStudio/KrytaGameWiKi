@@ -2,7 +2,7 @@
 title: 地图&导航
 description: 这里你可以找到与地图和导航相关的帮助信息
 published: true
-date: 2023-02-14T17:02:21.815Z
+date: 2023-02-14T17:04:26.734Z
 tags: 游戏玩法, 地图
 editor: markdown
 dateCreated: 2023-02-13T07:30:54.641Z
@@ -28,6 +28,6 @@ dateCreated: 2023-02-13T07:30:54.641Z
 3. 其余行作为要显示的类容
 
 例如：
-![zh-sign-marker-write.png](/玩法图片说明/zh-sign-marker-write.png)
+![zh-sign-marker-write.png](/玩法图片说明/zh-sign-marker-write.png =x360)
 将会在地图上显示：
-![zh-sign-marker-display.png](/玩法图片说明/zh-sign-marker-display.png)
+![zh-sign-marker-display.png](/玩法图片说明/zh-sign-marker-display.png =x360)
