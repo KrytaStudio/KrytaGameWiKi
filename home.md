@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2023-02-14T09:23:56.154Z
+date: 2023-02-14T16:49:09.077Z
 tags: 主页, 简介
 editor: markdown
 dateCreated: 2023-02-03T15:48:41.941Z
@@ -12,7 +12,8 @@ dateCreated: 2023-02-03T15:48:41.941Z
 
 # 服务器简介
 
-> [在Mastodon上关注我们！](https://social.kryta.app/@krytaworld)
+> [在 Mastodon 上关注我们！](https://social.kryta.app/@krytaworld)
+{.is-info}
 
 欢迎来到Kryta的世界——Java和基岩通用的**公益服务器**。
 
