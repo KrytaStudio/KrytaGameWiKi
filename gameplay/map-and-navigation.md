@@ -2,7 +2,7 @@
 title: 地图&导航
 description: 这里你可以找到与地图和导航相关的帮助信息
 published: true
-date: 2023-02-14T09:25:51.107Z
+date: 2023-02-14T09:26:45.268Z
 tags: 游戏玩法, 地图
 editor: markdown
 dateCreated: 2023-02-13T07:30:54.641Z
@@ -13,7 +13,7 @@ dateCreated: 2023-02-13T07:30:54.641Z
 - [Kryta世界地图*https://map.kryta.xyz/*](https://map.kryta.xyz/)
 {.links-list}
 # 知名地点
-- [渡云城*Kryta世界的核心城市。通往其它世界的传送门位于此*](https://map.kryta.xyz/#Pandaria;flat;-771,64,2859;6)
+- [渡云城*Kryta世界的核心城市。通往其它世界的传送门位于此*](https://map.kryta.xyz/#Pandaria;flat;-773,64,2860;6)
 {.links-list}
 # 标记
 当下，普通玩家仅支持通过告示牌来创建一个标记。
