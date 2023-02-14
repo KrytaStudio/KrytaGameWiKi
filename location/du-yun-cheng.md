@@ -2,7 +2,7 @@
 title: 渡云城
 description: 渡云城是服务器最为核心的城市
 published: true
-date: 2023-02-14T16:29:02.751Z
+date: 2023-02-14T16:30:24.141Z
 tags: 城市, 玩法, 说明
 editor: markdown
 dateCreated: 2023-02-14T09:14:38.174Z
@@ -28,13 +28,13 @@ dateCreated: 2023-02-14T09:14:38.174Z
 
 # 设施
 ## 设施 {.tabset}
-### 商业区
+### :convenience_store: 商业区
 * 商店
 * 阿斯顿
-### 工业区
+### :factory: 工业区
 * 商店
 * 阿斯顿
-### 居住区
+### :house_with_garden: 居住区
 * 商店
 * 阿斯顿
 
