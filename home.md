@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2023-02-14T16:50:49.105Z
+date: 2023-02-14T16:51:42.691Z
 tags: 主页, 简介
 editor: markdown
 dateCreated: 2023-02-03T15:48:41.941Z
@@ -52,9 +52,11 @@ Kryta世界是一个十年老玩家开的养老服，目前是56核96G，60M带�
 切换的方法请参考：
 
 -   [AliDNS](https://alidns.com/)
+{.links-list}
 
 ## Kryta服务器离线
 
 服务器离线也会导致无法连接，你可以访问Kryta服务状态页面来确认服务器是否正常
 
 -   [Kryta服务状态*获取Kryta服务是否正常的信息*](https://stats.uptimerobot.com/Qg5ykCXZQp)
+{.links-list}
