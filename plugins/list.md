@@ -2,7 +2,7 @@
 title: 插件一览表
 description: 本页列示本服务器所用插件
 published: true
-date: 2023-02-14T09:23:37.130Z
+date: 2023-02-15T09:03:57.621Z
 tags: 信息, 列表, 插件说明
 editor: markdown
 dateCreated: 2023-02-13T07:13:10.648Z
@@ -27,6 +27,7 @@ dateCreated: 2023-02-13T07:13:10.648Z
 | 数据分析 | Plan | 追踪服务器和玩家信息 | 5.5 | 无 |
 | 基础支持 | ProtocolLib | 提供一系列API | latest | 无 |
 | 优化 | TabList | 个性化Tab清单的内容 | 5.6.8 | 无 |
+| 功能扩展 | MiraiMC | 支持链接Minecraft和QQ | latest | 无 |
 ### 玩法类插件
 | 类型 | 名称 | 作用 | 版本 | 相关玩法 |
 | ---- | ---- | ---- | ---- | ---- |
@@ -39,4 +40,5 @@ dateCreated: 2023-02-13T07:13:10.648Z
 | 个性化 | Multiverse-Core | 多个我的世界地图 | 4.3.1 | 无 |
 | 个性化 | Multiverse-Portals | 允许自定义传送门在多个世界间传送 | 4.3.1 | 无 |
 | 优化 | SmoothTimber-Legacy | 一键砍树 | 1.23.0 | 无 |
-
+| 交流 | Chat2QQ | 与QQ群聊天 | latest | 无 |
+| 美化 | HAPPYNEWYEAR | 放烟花 | 2.0 | 无 |
