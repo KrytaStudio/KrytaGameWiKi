@@ -2,7 +2,7 @@
 title: 推荐客户端
 description: 这是推荐您使用的客户端整合包
 published: true
-date: 2023-02-14T09:24:29.459Z
+date: 2023-02-15T09:18:08.296Z
 tags: 下载, 资源
 editor: markdown
 dateCreated: 2023-02-03T15:48:38.578Z
@@ -19,3 +19,4 @@ dateCreated: 2023-02-03T15:48:38.578Z
 |名称|类型|版本|作用|
 |-|-|-|-|
 |Minecraft|主程序|1.19.3|Minecraft主要可执行程序|
+|Better Details|材质包|3.0|一个非常棒的材质包，16x，不怎么吃资源，但是界面和材质细节很漂亮，支持法线。|
