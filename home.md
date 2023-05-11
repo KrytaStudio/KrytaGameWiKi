@@ -2,7 +2,7 @@
 title: 主页
 description: 欢迎来的Kryta的Minecraft
 published: true
-date: 2023-02-14T16:52:41.209Z
+date: 2023-05-11T15:30:04.454Z
 tags: 主页, 简介
 editor: markdown
 dateCreated: 2023-02-03T15:48:41.941Z
@@ -22,7 +22,7 @@ Kryta世界是一个十年老玩家开的养老服，目前是56核96G，60M带�
 
 # 加入游玩
 
-> 服务器的地址是`game.kryta.xyz`，目前版本`1.19.3`，基岩版和Java版都是默认端口。
+> 服务器的地址是`game.kryta.xyz`，目前版本`1.19.4`，基岩版和Java版都是默认端口。
 
 请前往[客户端下载页面](/zh/client)下载推荐的整合包
 
